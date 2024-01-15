@@ -1,0 +1,12 @@
+.custom-table .ant-table-thead > tr > th {
+    background-color: #315ef7 !important;
+    color: white;
+  }
+
+  .bg-row-odd {
+    background-color: #EFF3FF; /* First color */
+  }
+  
+  .bg-row-even {
+    background-color: #F5F8FE; /* Second color */
+  }

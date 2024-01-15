@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 216 216">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-3 {
+        fill: #24346b;
+      }
+
+      .cls-4 {
+        fill: #e3131b;
+      }
+
+      .cls-5 {
+        fill: #e51e28;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="cls-2" cx="108" cy="108" r="108"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <circle class="cls-2" cx="108" cy="108" r="108"/>
+    </clipPath>
+  </defs>
+  <g id="katman_1" data-name="katman 1">
+    <g class="cls-1">
+      <g>
+        <rect id="_2:3" data-name="2:3" class="cls-4" x="-18.75" y="-.56" width="325.69" height="217.13"/>
+        <polygon class="cls-6" points="150.13 81.48 161.76 97.49 180.59 91.37 168.95 107.39 180.59 123.4 161.76 117.28 150.13 133.29 150.13 113.5 131.31 107.39 150.13 101.27 150.13 81.48"/>
+        <path class="cls-6" d="m102.81,150.92c-24.26,0-43.92-19.44-43.92-43.42s19.66-43.42,43.92-43.42c11.49,0,21.92,4.4,29.75,11.54-9.88-13.64-25.93-22.52-44.07-22.52-30.04,0-54.4,24.35-54.4,54.4s24.36,54.4,54.4,54.4c18.13,0,34.19-8.88,44.07-22.52-7.83,7.14-18.26,11.54-29.75,11.54Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="katman_2" data-name="katman 2">
+    <g class="cls-7">
+      <g>
+        <g>
+          <rect class="cls-6" y=".99" width="215.94" height="213.7"/>
+          <polygon class="cls-5" points="215.96 86.5 120.88 86.5 120.88 1 94.92 1 94.92 86.5 .09 86.5 .09 129.22 94.92 129.22 94.92 214.68 120.88 214.68 120.88 129.22 215.96 129.22 215.96 86.5"/>
+        </g>
+        <g>
+          <polygon class="cls-3" points="0 25.87 0 72.4 47.1 72.4 0 25.87"/>
+          <polygon class="cls-3" points="25.99 .98 25.3 1.03 86.37 61.69 86.37 .98 25.99 .98"/>
+          <polygon class="cls-5" points="72.48 72.1 0 .99 0 17.75 55.21 72.1 72.48 72.1"/>
+          <polygon class="cls-5" points="143.52 143.55 216 214.66 216 197.9 160.79 143.55 143.52 143.55"/>
+        </g>
+        <g>
+          <polygon class="cls-3" points="0 190.14 0 143.61 47.1 143.61 0 190.14"/>
+          <polygon class="cls-3" points="25.99 215.03 25.3 214.98 86.37 154.32 86.37 215.03 25.99 215.03"/>
+          <polygon class="cls-5" points="72.11 143.54 .05 214.63 16.9 214.66 86.44 146.43 86.44 143.54 72.11 143.54"/>
+        </g>
+        <g>
+          <polygon class="cls-3" points="216 25.86 216 72.39 168.9 72.39 216 25.86"/>
+          <polygon class="cls-3" points="190.02 .97 190.71 1.02 129.63 61.68 129.63 .97 190.02 .97"/>
+          <polygon class="cls-5" points="215.93 1.07 199.72 1.06 129.69 69.77 129.69 72.18 144.51 72.18 215.93 1.07"/>
+        </g>
+        <g>
+          <polygon class="cls-3" points="216 190.12 216 143.59 168.9 143.59 216 190.12"/>
+          <polygon class="cls-3" points="190.02 215.02 190.71 214.96 129.63 154.31 129.63 215.02 190.02 215.02"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

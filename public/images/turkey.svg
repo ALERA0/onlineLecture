@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_1" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 216 216">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #e3131b;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="cls-2" cx="108" cy="108" r="108"/>
+    </clipPath>
+  </defs>
+  <g class="cls-1">
+    <g>
+      <rect id="_2:3" data-name="2:3" class="cls-3" x="-18.75" y="-.56" width="325.69" height="217.13"/>
+      <polygon class="cls-4" points="150.13 81.48 161.76 97.49 180.59 91.37 168.95 107.39 180.59 123.4 161.76 117.28 150.13 133.29 150.13 113.5 131.31 107.39 150.13 101.27 150.13 81.48"/>
+      <path class="cls-4" d="m102.81,150.92c-24.26,0-43.92-19.44-43.92-43.42s19.66-43.42,43.92-43.42c11.49,0,21.92,4.4,29.75,11.54-9.88-13.64-25.93-22.52-44.07-22.52-30.04,0-54.4,24.35-54.4,54.4s24.36,54.4,54.4,54.4c18.13,0,34.19-8.88,44.07-22.52-7.83,7.14-18.26,11.54-29.75,11.54Z"/>
+    </g>
+  </g>
+</svg>
